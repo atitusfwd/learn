@@ -1,1 +1,2 @@
 cat named kitty 2 years old
+cat named scratchy 10 weeks old
